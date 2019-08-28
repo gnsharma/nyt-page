@@ -1,0 +1,15 @@
+.image {
+    height: 531.562px;
+    width: 945px;
+}
+
+.heading {
+    width: 550px;
+}
+
+.heading > span {
+    max-width: 520px;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
